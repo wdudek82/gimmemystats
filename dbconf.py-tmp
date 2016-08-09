@@ -1,0 +1,12 @@
+
+# Database
+dbname = ''
+user = ''
+passwd = ''
+host = ''
+
+
+# Querysets
+querysets = {
+	'table_name': 'queryset'
+}

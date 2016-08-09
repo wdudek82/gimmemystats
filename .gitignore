@@ -1,0 +1,6 @@
+*.csv
+*.xls
+*.xlsx
+*.pyc
+dbconf.py
+
